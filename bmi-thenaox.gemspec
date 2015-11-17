@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.description = "Body mass index calculator class that uses the metric system only"
   s.authors     = ["Antonio Chavez"]
   s.email       = 'cavjzz@gmail.com'
-  s.files       = ["lib/hola.rb"]
+  s.files       = ["lib/body_mass_index.rb"]
   s.homepage    = 'http://github.com/TheNaoX/bmi'
   s.license     = 'MIT'
 end
